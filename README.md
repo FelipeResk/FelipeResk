@@ -2,12 +2,23 @@
 
 <!--Headers-->
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+### Welcome everyone to the ReskVerse.
+
+![Aprendendo com muita paciência](https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif)
+-----
+
+( ͡° ͜ʖ ͡°) Named as Felipe Resk the First
+
+(ಠ_ಠ) The scholar of Data Science and Analytics
+
+(＃｀д´)ﾉ Student of Computer Science in Uninove
+
+[📫](fe.reskdev@outlook.com)
+-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
+-
+
 
 <!--
 **FelipeResk/FelipeResk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
