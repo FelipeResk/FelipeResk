@@ -1,11 +1,11 @@
-## Hi there 👋
+###### Hello there
 
 <!--Headers-->
 
-### Welcome everyone to the ReskVerse.
+# Welcome everyone to the ReskVerse.
 
 ![Aprendendo com muita paciência](https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif)
------
+
 
 ( ͡° ͜ʖ ͡°) Named as Felipe Resk the First
 
@@ -13,13 +13,18 @@
 
 (＃｀д´)ﾉ Student of Computer Science in Uninove
 
-[📫](fe.reskdev@outlook.com)
--
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+## Contact me (☞ﾟヮﾟ)☞  [📫](fe.reskdev@outlook.com)
+Or find me in LinkedIn (☞ﾟヮﾟ)☞ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
 width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
 -
 
 
+<br><br>
+
+## My Technologies
+| Cursos | Certificados |
+|--------|--------------|
+| To Be  | Concluded    |
 <!--
 **FelipeResk/FelipeResk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
