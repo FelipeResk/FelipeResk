@@ -14,7 +14,7 @@
 (＃｀д´)ﾉ Student of Computer Science in Uninove
 
 ## Contact me (☞ﾟヮﾟ)☞  [📫](fe.reskdev@outlook.com)
-Or find me in LinkedIn (☞ﾟヮﾟ)☞ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+Or find me on LinkedIn (☞ﾟヮﾟ)☞ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
 width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
 -
 
@@ -25,6 +25,8 @@ width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
 | Cursos | Certificados |
 |--------|--------------|
 | To Be  | Concluded    |
+
+
 <!--
 **FelipeResk/FelipeResk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
