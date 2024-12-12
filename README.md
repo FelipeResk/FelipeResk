@@ -2,10 +2,10 @@
 
 <!--Headers-->
 
-# Welcome everyone to the ReskVerse.
+# Welcome everyone to Jurassic Resk.
 
-![Aprendendo com muita paciência](https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif)
 
+![Jurassic Resk](https://y.yarn.co/be96f98d-7615-4884-ad56-6a1b5dffc377_text.gif)
 
 ( ͡° ͜ʖ ͡°) Named as Felipe Resk the First
 
@@ -24,20 +24,26 @@ width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
 ## My Technologies
 | Cursos | Certificados |
 |--------|--------------|
-| To Be  | Concluded    |
+| Lógica de programação | [**Concluded**](https://hermes.dio.me/certificates/HBW4Q8KB.pdf)    |
+| Desenvolvimento front-end | Concluded |
+| Programação e pensamento computacional | [**Concluded**](https://hermes.dio.me/certificates/XRAC6KOS.pdf) |
+| Versionamento com Git e Github | [**Concluded**](https://hermes.dio.me/certificates/3YLKEGJC.pdf) |
+<br>
 
+![Aprendendo com muita paciência](https://media.tenor.com/kSiC-0wGr4kAAAAM/monkey-technology.gif)
+<br><br>
 
-<!--
-**FelipeResk/FelipeResk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stats
 
-Here are some ideas to get you started:
+<div>
+    <a href="https://github.com/FelipeResk">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=feliperesk&show_icons=true&theme=tokyonight">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperesk&layout=pie&theme=tokyonight">
+</div><br>
 
-- 🔭 I’m currently working on automating all of my daily assignments in my currently work place :smile:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block; text-align: left">
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+</div>
+<br>
