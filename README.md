@@ -2,7 +2,7 @@
 
 <!--Headers-->
 
-# Welcome everyone to Jurassic Resk.
+# Welcome everyone to Jurassic Resk
 
 
 ![Jurassic Resk](https://y.yarn.co/be96f98d-7615-4884-ad56-6a1b5dffc377_text.gif)
@@ -12,14 +12,6 @@
 (ಠ_ಠ) The scholar of Data Science and Analytics
 
 (＃｀д´)ﾉ Student of Computer Science in Uninove
-
-## Contact me (☞ﾟヮﾟ)☞  [📫](fe.reskdev@outlook.com)
-Or find me on LinkedIn (☞ﾟヮﾟ)☞ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
--
-
-
-<br><br>
 
 ## My Technologies
 | Cursos | Certificados |
@@ -37,8 +29,8 @@ width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
 
 <div>
     <a href="https://github.com/FelipeResk">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=feliperesk&show_icons=true&theme=tokyonight">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperesk&layout=pie&theme=tokyonight">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=FelipeResk&show_icons=true&theme=tokyonight">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeResk&layout=pie&theme=tokyonight">
 </div><br>
 
 <div style="display: inline_block; text-align: left">
@@ -47,3 +39,15 @@ width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
     <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 </div>
 <br>
+
+## Contact me (☞ﾟヮﾟ)☞  [📫](fe.reskdev@outlook.com)
+Or find me on LinkedIn (☞ﾟヮﾟ)☞ [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+width="25px">](https://www.linkedin.com/in/felipe-resk-502641152/)
+-
+
+
+<br><br>
+
+
+
+![snake gif](https://github.com/FelipeResk/FelipeResk/blob/output/github-snake-dark.svg)
