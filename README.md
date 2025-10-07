@@ -11,7 +11,7 @@
 
 (ಠ_ಠ) The scholar of Data Science and Analytics
 
-(＃｀д´)ﾉ Student of Computer Science in Uninove
+(＃｀д´)ﾉ Bachelor in Computer Science
 
 ## My Technologies
 | Cursos | Certificados |
